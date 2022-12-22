@@ -16,7 +16,7 @@ https://vc.cc/8qPP0h (go 2 draft)
 // подсмотреть стандартные структуры проектов
 https://github.com/golang-standards/project-layout
 
-// обновленная версия структур проекта плюс комментарии! https://www.youtube.com/watch?v=mesl2Si6saw
+// обновленная версия структур проекта комментарии! https://www.youtube.com/watch?v=mesl2Si6saw
 
-// досмотреть базу https://youtu.be/h0zxh2TPN_I?t=4383
+// досмотреть базу https://youtu.be/h0zxh2TPN_I?t=6034
 // качать лайв кодинг https://www.codingame.com
