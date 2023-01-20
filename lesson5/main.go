@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	var arr = []int{1, 2} // всратый синтаксис для массивов
+	var arr = []int {1, 2} // всратый синтаксис для массивов
 	fmt.Println(arr)
 	fmt.Println(minNum(1, 2, 5, 3, -5, 2))
 }
