@@ -18,8 +18,9 @@ https://github.com/golang-standards/project-layout
 
 // обновленная версия структур проекта комментарии! https://www.youtube.com/watch?v=mesl2Si6saw
 
-// досмотреть базу https://youtu.be/h0zxh2TPN_I?t=7205
+// досмотреть базу https://youtu.be/h0zxh2TPN_I?t=8541
 // качать лайв кодинг https://www.codingame.com
 
 // курс cs50 по базе! https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
 // прочитать Грокаем алгоритмы!
+// поизучать https://go.dev/doc/effective_go, там описаны принципы идеоматического программирования на go
