@@ -40,6 +40,7 @@ func main() {
 	fmt.Println(slice2)
 	fmt.Println(len(slice2))
 	fmt.Println(cap(slice2)) // capacity равен длине массива, по дефолту, т.к. его не передали
+	// append - аналог push в JS
 	slice2 = append(slice2, "6") // т.к. мы не задали capacity и втулили лишний элемент, произойдет переаллокация и создастся массив с capacity в 2 раза длиннее
 	fmt.Println(len(slice2))
 	// начиная с определенной точки capacity увеличивается не в 2 раза (видно на длине в 10000)
