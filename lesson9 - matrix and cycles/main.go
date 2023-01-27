@@ -22,6 +22,16 @@ func main() {
 	for i := range arr {
 		fmt.Println(i, arr[i])
 	}
+
+	count := 0
+
+	for {
+		if (count == 100) {
+			break
+		}
+		count++
+		fmt.Println(count)
+	}
 }
 
 func print(arr [][]int)  {
